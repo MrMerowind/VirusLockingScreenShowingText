@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywY31YDdb+8siAnmdBe6j1tEAJf7PzljOdyq2ATnDEtm804UELrysUxSU5ozoZMomEsa4wzAMEy7r/CZrVuFEw==",
+  "success": true,
+  "projectFilePath": "D:\\VirusLockingScreenShowingText\\VirusLockingScreenShowingText\\VirusLockingScreenShowingText\\VirusLockingScreenShowingText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mero\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mero\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
